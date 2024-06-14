@@ -34,7 +34,7 @@ In this task, you start by attempting a file upload but realize that there's no 
 
 1. Open the simulated environment by selecting this link: **[Microsoft Copilot for Security](https://app.highlights.guide/start/89f9d04d-283c-4788-8214-22e4d5b4b171?link=0&token=40f793d4-2956-40a4-b11a-6b3d4f92557f&azure-portal=true)**.
 
-1. To access file uploads, select the **sources icon** ![sources icon](../media/sources-icon.png) from the prompt bar.
+1. To access file uploads, select the **sources icon** ![sources icon](media/sources-icon.png) from the prompt bar.
 
 1. From the manage sources page, select **Files**.
 1. If there is no option to actually upload a files, it's because the owner setting that controls this option has been changed from the default. After conferring with the other Copilot owner, you realize this was disabled in error and agree this should be set.
