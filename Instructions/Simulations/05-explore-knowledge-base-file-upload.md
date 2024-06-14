@@ -24,9 +24,11 @@ This exercise should take approximately **10** minutes to complete.
 
 For the purpose of this exercise, you'll be using a sample file, 'Woodgrove Corporate Data Handling Policy.pdf'.
 
-1. Download the file **[Woodgrove Corporate Data Handling Policy.pdf'](https://github.com/MicrosoftLearning/SC-5006-Get-started-with-Microsoft-Copilot-for-Security/blob/master/Sample%20files/Woodgrove%20Corporate%20Data%20Handling%20Policy.pdf?azure-portal=true)**.
-    1. Select the **Download raw file ![download raw file icon](media/raw-file-download-icon-v2.png)** icon.  Save the file on your local computer, as you will need it later.  
-    1. Alternatively, because this is a simulation, you can simply create the file named 'Woodgrove Corporate Data Handling Policy.pdf.' Because this is a simulation, the contents of the file you create won't matter.  The prompt responses shown in the simulation, however, are based on the actual file.
+1. Select the link **[Woodgrove Corporate Data Handling Policy.pdf'](https://github.com/MicrosoftLearning/SC-5006-Get-started-with-Microsoft-Copilot-for-Security/blob/master/Sample%20files/Woodgrove%20Corporate%20Data%20Handling%20Policy.pdf?azure-portal=true)** to access the sample file.
+
+1. Select the **Download raw file ![download raw file icon](media/raw-file-download-icon-v2.png)** icon.  Save the file on your local computer, as you will need it later.
+
+   Alternatively, because this is a simulation, you can simply create the file named 'Woodgrove Corporate Data Handling Policy.pdf.' Because this is a simulation, the contents of the file you create won't matter.  The prompt responses shown in the simulation, however, are based on the actual file.
 
 ### Task: Configure Copilot to support file uploads
 
