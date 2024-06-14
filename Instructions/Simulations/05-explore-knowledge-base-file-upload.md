@@ -25,8 +25,8 @@ This exercise should take approximately **15** minutes to complete.
 For the purpose of this exercise, you'll be using a sample file, 'Woodgrove Corporate Data Handling Policy.pdf'.
 
 1. Download the file **[Woodgrove Corporate Data Handling Policy.pdf']()** and save it to your computer.
-
-1. Alternatively, because this is a simulation, you can simply create the file named 'Woodgrove Corporate Data Handling Policy.pdf.' Because this is a simulation, the contents of the file you create won't matter.  The prompt responses shown in the simulation, however, are based on the actual file.
+    1. Select the **Download raw file ![download raw file icon](media/raw-file-download-icon-v2.png)** icon.  Save the file on your local computer, as you will need it later.  
+    1. Alternatively, because this is a simulation, you can simply create the file named 'Woodgrove Corporate Data Handling Policy.pdf.' Because this is a simulation, the contents of the file you create won't matter.  The prompt responses shown in the simulation, however, are based on the actual file.
 
 ### Task: Configure Copilot to support file uploads
 
