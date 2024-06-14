@@ -23,3 +23,11 @@ Hyperlinks to each of the lab exercises and demos are listed below.
 | --- | --- | 
 {% for activity in demos  %}| {{ activity.demo.module }} | [{{ activity.demo.title }}]({{ site.github.url }}{{ activity.url }}) |
 {% endfor %}
+
+## Simulations
+
+{% assign simulations = site.pages | where_exp:"page", "page.url contains '/Instructions/Simulations'" %}
+| Module | Simulation |
+| --- | --- | 
+{% for activity in simulations  %}| {{ activity.simulation.module }} | [{{ activity.simulation.title }}]({{ site.github.url }}{{ activity.url }}) |
+{% endfor %}
