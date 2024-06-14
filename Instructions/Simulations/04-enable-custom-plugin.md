@@ -27,9 +27,11 @@ This exercise should take approximately **10** minutes to complete.
 
 For the purpose of this exercise, you'll be using a sample .yaml file, 'KQL_DefenderExample.yaml'.
 
-1. Download the file **[KQL_DefenderExample.yaml](https://github.com/MicrosoftLearning/SC-5006-Get-started-with-Microsoft-Copilot-for-Security/blob/master/Sample%20files/KQL_DefenderExample.yaml?azure-portal=true)**.
-    1. Select the **Download raw file ![download raw file icon](media/raw-file-download-icon-v2.png)** icon.  Save the file on your local computer, as you will need it later.  
-    1. Alternatively, because this is a simulation, you can create the file named 'KQL_DefenderExample.yaml.' Because this is a simulation, the contents of the file you create won't matter. The system capabilities and prompt responses shown in the simulation, however, are based on the actual file.
+1. Select the link **[KQL_DefenderExample.yaml](https://github.com/MicrosoftLearning/SC-5006-Get-started-with-Microsoft-Copilot-for-Security/blob/master/Sample%20files/KQL_DefenderExample.yaml?azure-portal=true)** to access the sample file.
+
+1. Select the **Download raw file ![download raw file icon](media/raw-file-download-icon-v2.png)** icon.  Save the file on your local computer, as you will need it later.  
+
+   Alternatively, because this is a simulation, you can create the file named 'KQL_DefenderExample.yaml.' Because this is a simulation, the contents of the file you create won't matter. The system capabilities and prompt responses shown in the simulation, however, are based on the actual file.
 
 ### Task: Update owner settings for custom plugins
 
