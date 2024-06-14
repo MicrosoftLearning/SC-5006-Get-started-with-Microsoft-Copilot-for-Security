@@ -11,7 +11,7 @@ In this exercise, you go through the process of integrating a knowledge base int
 - You're logged in as the fictitious user, Avery Howard, and have the Copilot owner role.
 - You'll work in the standalone experience of Microsoft Copilot for Security.
 
-This exercise should take approximately **15** minutes to complete.
+This exercise should take approximately **10** minutes to complete.
 
 > [!NOTE]
 > The environment for this exercise is based on a simulation, generated from pre-determined screen captures of the actual product. As a limited simulation, links on a page may not be enabled and text-based inputs that fall outside of the specified script are not be supported.
